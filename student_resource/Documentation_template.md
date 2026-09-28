@@ -1,8 +1,9 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
-**Team Name:** [Your Team Name]  
+**Team Name:** N3Rflix  
 **Team Members:** [List all team members]  
-**Submission Date:** [Date]
+**Submission Date:** 2026-09-28
+
 
 ---
 

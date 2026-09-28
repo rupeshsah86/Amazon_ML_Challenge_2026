@@ -154,7 +154,7 @@ reviewed in detail before the final rankings are confirmed.
 Structure:
 
 ```
-<team_name>_submission.zip
+N3Rflix_submission.zip
 ├── output/
 │   ├── matching_results.tsv        # final matches (same file you upload to the leaderboard)
 │   └── candidate_pairs.tsv         # your blocking candidate set

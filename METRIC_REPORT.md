@@ -1,8 +1,9 @@
 # METRIC REPORT - AMAZON ML CHALLENGE 2026
-## Business Entity Resolution
+## Team N3Rflix — Business Entity Resolution
 
 ### Executive Summary
-This document provides the official quantitative validation report for our autonomous Entity Resolution solution submitted for **Amazon ML Challenge 2026: Business Entity Resolution**.
+This document provides the official quantitative validation report for **Team N3Rflix**'s autonomous Entity Resolution solution submitted for **Amazon ML Challenge 2026: Business Entity Resolution**.
+
 
 ---
 

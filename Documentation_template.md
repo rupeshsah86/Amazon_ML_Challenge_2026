@@ -1,5 +1,6 @@
 # Amazon ML Challenge 2026: Business Entity Resolution
-## Team Solution Documentation
+## Team N3Rflix Solution Documentation
+
 
 ### 1. Architectural Overview & Approach Summary
 Our solution implements a multi-channel blocking framework combined with an ensemble of gradient-boosted decision trees (LightGBM, CatBoost, HistGradientBoosting) trained under leak-free 5-fold grouped cross-validation.

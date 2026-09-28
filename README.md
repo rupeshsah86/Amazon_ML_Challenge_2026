@@ -1,12 +1,14 @@
 # Amazon ML Challenge 2026: Business Entity Resolution
-## Grandmaster Solution Pipeline
+## Team N3Rflix — Grandmaster Solution Pipeline
 
 ![Metric Score](https://img.shields.io/badge/Macro_F0.5-0.9987-brightgreen)
 ![Submission Status](https://img.shields.io/badge/Validator-PASS-success)
+![Team](https://img.shields.io/badge/Team-N3Rflix-orange)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-This repository contains the end-to-end, competition-compliant solution for **Amazon ML Challenge 2026: Business Entity Resolution**.
+This repository contains the official end-to-end, competition-compliant solution by **Team N3Rflix** for **Amazon ML Challenge 2026: Business Entity Resolution**.
+
 
 
 ### 🚀 Quick Start & Reproducibility Guide
@@ -69,7 +71,7 @@ amazon_entity_resolution/
 ├── WORKSPACE_ANALYSIS.md
 ├── Documentation_template.md
 ├── requirements.txt
-└── team_name_submission.zip
+└── N3Rflix_submission.zip
 ```
 
 ---

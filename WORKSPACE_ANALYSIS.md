@@ -38,4 +38,4 @@
 5. **Phase 4 Error Analysis (`04_error_analysis.py`)**: Diagnose false positives, false negatives, candidate recall bottlenecks.
 6. **Phase 5 Blending & Threshold Optimization (`05_optimize_blend.py`)**: OOF probability blending and leak-free decision threshold tuning.
 7. **Phase 6 & 7 Final Inference & Validation (`06_generate_submission.py`)**: Test candidate generation, ensemble inference, TSV formatting, automated validator execution.
-8. **Phase 8-10 Documentation & Packaging (`run_pipeline.py`)**: Generate comprehensive reports and package `team_name_submission.zip`.
+8. **Phase 8-10 Documentation & Packaging (`run_pipeline.py`)**: Generate comprehensive reports and package `N3Rflix_submission.zip`.

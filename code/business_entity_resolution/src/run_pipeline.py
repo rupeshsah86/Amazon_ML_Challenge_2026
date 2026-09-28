@@ -91,7 +91,7 @@ def main():
             shutil.copy(BASE_DIR / "utils" / uf, utils_src / uf)
 
     # Phase 9: Package final submission zip
-    zip_path = BASE_DIR / "team_name_submission.zip"
+    zip_path = BASE_DIR / "N3Rflix_submission.zip"
     log_step(f"Creating Final Submission Package: {zip_path}")
     
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:

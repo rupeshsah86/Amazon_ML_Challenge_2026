@@ -159,7 +159,7 @@ else:
     sys.exit(1)
 
 # 7. Package Zip Submission
-zip_path = BASE_DIR / "team_name_submission.zip"
+zip_path = BASE_DIR / "N3Rflix_submission.zip"
 print(f"Creating Submission ZIP Package: {zip_path}")
 
 with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
