@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# OS / System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+__MACOSX/
+
+# Large archives and packages
+*.zip
+*.tar.gz
+*.7z
+*.rar
+N3Rflix.zip
+team_name_submission.zip
+
+# Model checkpoints and binary caches
+catboost_info/
+checkpoints/*.npy
+checkpoints/*.pkl
+
+# Large datasets and full generated outputs
+dataset/
+output/
+student_resource/dataset/
