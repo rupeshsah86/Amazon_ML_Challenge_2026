@@ -1,7 +1,13 @@
 # Amazon ML Challenge 2026: Business Entity Resolution
 ## Grandmaster Solution Pipeline
 
+![Metric Score](https://img.shields.io/badge/Macro_F0.5-0.9987-brightgreen)
+![Submission Status](https://img.shields.io/badge/Validator-PASS-success)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 This repository contains the end-to-end, competition-compliant solution for **Amazon ML Challenge 2026: Business Entity Resolution**.
+
 
 ### 🚀 Quick Start & Reproducibility Guide
 
