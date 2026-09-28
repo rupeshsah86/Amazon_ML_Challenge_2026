@@ -1,0 +1,67 @@
+[2026-09-27 22:46:47] Starting Master Pipeline Orchestrator for Amazon ML Challenge 2026
+[2026-09-27 22:46:47] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:46:47] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:46:47] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 22:47:12] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 22:47:12] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 22:47:41] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 22:47:41] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 22:48:19] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 22:48:19] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 22:48:19] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 22:48:19] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 22:49:27] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 22:49:27] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 22:49:27] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 22:49:27] Executing Official Submission Validator...
+[2026-09-27 22:49:27] Official Validator PASSED!
+[2026-09-27 22:49:27] Creating Final Submission Package: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/team_name_submission.zip
+[2026-09-27 22:49:27] Verifying Final Zip Package Integrity...
+[2026-09-27 22:49:27] === PIPELINE ORCHESTRATION COMPLETE: ALL STAGES VERIFIED ===
+[2026-09-27 22:51:53] Starting Master Pipeline Orchestrator for Amazon ML Challenge 2026
+[2026-09-27 22:51:53] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:51:53] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:51:53] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 22:52:18] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 22:52:18] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 22:52:47] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 22:52:47] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 22:53:24] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 22:53:24] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 22:53:25] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 22:53:25] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 22:54:33] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 22:54:33] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 22:54:33] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 22:54:33] Executing Official Submission Validator...
+[2026-09-27 22:54:34] Official Validator PASSED!
+[2026-09-27 22:54:34] Creating Final Submission Package: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/team_name_submission.zip
+[2026-09-27 22:54:34] Verifying Final Zip Package Integrity...
+[2026-09-27 22:54:34] === PIPELINE ORCHESTRATION COMPLETE: ALL STAGES VERIFIED ===
+[2026-09-27 22:59:41] Starting Master Pipeline Orchestrator for Amazon ML Challenge 2026
+[2026-09-27 22:59:41] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:59:42] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 22:59:42] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 23:00:07] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 23:00:07] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 23:00:35] ERROR: Script /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py failed with exit code -11
+[2026-09-27 23:02:21] Starting Master Pipeline Orchestrator for Amazon ML Challenge 2026
+[2026-09-27 23:02:21] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 23:02:21] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/00_dataset_analysis.py
+[2026-09-27 23:02:21] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 23:02:46] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/01_baseline_test.py
+[2026-09-27 23:02:46] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 23:03:36] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/02_build_features.py
+[2026-09-27 23:03:36] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 23:04:54] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/03_train_ensemble.py
+[2026-09-27 23:04:54] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 23:04:55] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/04_error_analysis.py
+[2026-09-27 23:04:55] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 23:06:03] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/05_optimize_blend.py
+[2026-09-27 23:06:03] Executing: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 23:06:03] SUCCESS: Completed /Users/rupeshmacbook/Desktop/amazon_entity_resolution/06_generate_submission.py
+[2026-09-27 23:06:03] Executing Official Submission Validator...
+[2026-09-27 23:06:03] Official Validator PASSED!
+[2026-09-27 23:06:03] Creating Final Submission Package: /Users/rupeshmacbook/Desktop/amazon_entity_resolution/team_name_submission.zip
+[2026-09-27 23:06:03] Verifying Final Zip Package Integrity...
+[2026-09-27 23:06:04] === PIPELINE ORCHESTRATION COMPLETE: ALL STAGES VERIFIED ===

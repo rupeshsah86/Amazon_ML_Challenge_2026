@@ -1,0 +1,35 @@
+=== AMAZON ML CHALLENGE 2026 EXPERIMENT PERFORMANCE LOG ===
+Dataset Loaded: Train S1=1200, S2=1059, S3=923, GT Matches=1262, Singletons=28.00%
+Phase 1 Baseline | 5-Fold OOF Macro F0.5: 0.9944 | Cand Recall: 1.0000 | Avg Cands: 23.88 | Time: 22.50s
+Phase 2 Features | 5-Fold OOF Macro F0.5: 0.9974 | Features: 13 | Time: 27.11s
+Phase 3 Ensemble | Models: LightGBM, CatBoost, HistGB | Pairs: 28741 | Time: 35.86s
+Phase 4 Error Analysis | FP Count: 4 | FN Count: 2 | Pre-post F0.5: 0.9979
+Phase 5 Blend Optimization | OOF Macro F0.5: 0.9987 | Weights: (np.float64(0.4), np.float64(0.36), np.float64(0.24)) | Thresh: 0.60
+Phase 6 Final Inference | Generated matching_results.tsv & candidate_pairs.tsv for 600 test entities.
+=== AMAZON ML CHALLENGE 2026 EXPERIMENT PERFORMANCE LOG ===
+Dataset Loaded: Train S1=1200, S2=1059, S3=923, GT Matches=1262, Singletons=28.00%
+Phase 1 Baseline | 5-Fold OOF Macro F0.5: 0.9944 | Cand Recall: 1.0000 | Avg Cands: 23.88 | Time: 22.50s
+Phase 2 Features | 5-Fold OOF Macro F0.5: 0.9974 | Features: 13 | Time: 27.12s
+Phase 3 Ensemble | Models: LightGBM, CatBoost, HistGB | Pairs: 28741 | Time: 35.95s
+Phase 4 Error Analysis | FP Count: 4 | FN Count: 2 | Pre-post F0.5: 0.9979
+Phase 5 Blend Optimization | OOF Macro F0.5: 0.9987 | Weights: (np.float64(0.4), np.float64(0.36), np.float64(0.24)) | Thresh: 0.60
+Phase 6 Final Inference | Generated matching_results.tsv & candidate_pairs.tsv for 600 test entities.
+=== AMAZON ML CHALLENGE 2026 EXPERIMENT PERFORMANCE LOG ===
+Dataset Loaded: Train S1=1200, S2=1059, S3=923, GT Matches=1262, Singletons=28.00%
+Phase 1 Baseline | 5-Fold OOF Macro F0.5: 0.9944 | Cand Recall: 1.0000 | Avg Cands: 23.88 | Time: 22.19s
+Phase 2 Features | 5-Fold OOF Macro F0.5: 0.9974 | Features: 13 | Time: 27.10s
+Phase 3 Ensemble | Models: LightGBM, CatBoost, HistGB | Pairs: 28741 | Time: 35.29s
+Phase 4 Error Analysis | FP Count: 4 | FN Count: 2 | Pre-post F0.5: 0.9979
+Phase 5 Blend Optimization | OOF Macro F0.5: 0.9987 | Weights: (np.float64(0.4), np.float64(0.36), np.float64(0.24)) | Thresh: 0.60
+Phase 6 Final Inference | Generated matching_results.tsv & candidate_pairs.tsv for 600 test entities.
+=== AMAZON ML CHALLENGE 2026 EXPERIMENT PERFORMANCE LOG ===
+Dataset Loaded: Train S1=1200, S2=1059, S3=923, GT Matches=1262, Singletons=28.00%
+Phase 1 Baseline | 5-Fold OOF Macro F0.5: 0.9944 | Cand Recall: 1.0000 | Avg Cands: 23.88 | Time: 22.74s
+=== AMAZON ML CHALLENGE 2026 EXPERIMENT PERFORMANCE LOG ===
+Dataset Loaded: Train S1=1200, S2=1059, S3=923, GT Matches=1262, Singletons=28.00%
+Phase 1 Baseline | 5-Fold OOF Macro F0.5: 0.9944 | Cand Recall: 1.0000 | Avg Cands: 23.88 | Time: 21.95s
+Phase 2 Neural Features | 5-Fold OOF Macro F0.5: 0.9979 | Features: 15 | Time: 37.69s
+Phase 3 Ensemble | Models: LightGBM, CatBoost, HistGB | Pairs: 64090 | Time: 63.32s
+Phase 4 Error Analysis | FP Count: 3 | FN Count: 1 | Pre-post F0.5: 0.9983
+Phase 5 Blend Optimization | OOF Macro F0.5: 0.9995 | Weights: (np.float64(0.2), np.float64(0.48), np.float64(0.32)) | Thresh: 0.70
+Phase 6 Final Inference | Generated matching_results.tsv & candidate_pairs.tsv for 600 test entities.
